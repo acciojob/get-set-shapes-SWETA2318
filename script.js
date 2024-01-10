@@ -1,7 +1,6 @@
-//complete this code
 class Rectangle {}
 
-class Square extends Animal {}
+class Square extends Rectangle {}
 
 // Do not change the code below this line
 window.Rectangle = Rectangle;
